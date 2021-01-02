@@ -1,10 +1,10 @@
 # 설계를 하고싶은 개발자
 ##### 있어보이는 설계를 하고싶은 개발자 입니다. 
 ### 신상
-    이름 : 오성록
-    이메일 : traeuman@gmail.com
-    블로그 : lokie.tistory.com
-    깃허브 : github.com/Lokie89
+- 이름 : 오성록
+- [이메일](mailto:traeuman@gmail.com)
+- [블로그](lokie.tistory.com)
+- [깃허브](github.com/Lokie89)
     
 ### 소개
     작은 쇼핑몰에서 물류 작업 및 관리 일에 종사하던 중
