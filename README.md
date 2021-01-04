@@ -1,4 +1,4 @@
-# 주니어 개발자
+# 심플한 개발자
 ### 프로필
 - 이름 : 오성록
 - [이메일](mailto:traeuman@gmail.com) : traeuman@gmail.com
