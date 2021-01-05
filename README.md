@@ -1,4 +1,3 @@
-# 심플한 개발자
 ### 프로필
 - 이름 : 오성록
 - [이메일](mailto:traeuman@gmail.com) : traeuman@gmail.com
@@ -27,7 +26,7 @@
     JPA, MyBatis, MySQL, MariaDB
     
 ### 경험
-##### 아메바 ( 2018.11 - 2021.01 )
+#### 아메바 ( 2018.11 - 2021.01 )
 1. 여행, 사진 SNS 백엔드 플랫폼 개발
     - Node, Express, MySQL
     - 안드로이드에서 사용할 모든 서비스 API 개발
