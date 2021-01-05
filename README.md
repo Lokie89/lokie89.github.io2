@@ -2,8 +2,8 @@
 ### 프로필
 - 이름 : 오성록
 - [이메일](mailto:traeuman@gmail.com) : traeuman@gmail.com
-- [블로그](lokie.tistory.com)
-- [깃허브](github.com/Lokie89)
+- [블로그](https://lokie.tistory.com)
+- [깃허브](https://github.com/Lokie89)
     
 ### 소개
     소규모 쇼핑몰에서 물류 작업 및 관리 업무에 종사하던 중
