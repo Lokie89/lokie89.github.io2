@@ -1,10 +1,12 @@
 ### 프로필
+
 - 이름 : 오성록
 - [이메일](mailto:traeuman@gmail.com) : traeuman@gmail.com
 - [블로그](https://lokie.tistory.com)
 - [깃허브](https://github.com/Lokie89)
-    
+
 ### 소개
+
     소규모 쇼핑몰에서 물류 작업 및 관리 업무에 종사하던 중
     재고 관리의 어려움을 깨닫고 엑셀로 재고관리 프로그램을 만든 후,
     프로그래밍에 관심이 생겨 직종을 변경하게 되었습니다.
@@ -20,28 +22,43 @@
     코드 컨벤션, 작은 단위 코드 작성, DDD 등에 관심을 갖게 되었고
     협업하는 과정에서 일어나는 형상관리, 개발방법에도 관심을 갖고
     책과 커뮤니티 스터디을 통한 학습을 진행하고 있습니다.
-    
-### 기술
-    Java, Spring, SpringBoot, JSP, FreeMarker, Nodejs,
-    JPA, MyBatis, MySQL, MariaDB
-    
-### 경험
+
+### 보유 기술
+
+    Java, Spring, SpringBoot, JSP, FreeMarker, MyBatis, MySQL, MariaDB
+
+### 경력 사항
+
 #### 아메바 ( 2018.11 - 2021.01 )
-1. 여행, 사진 SNS 백엔드 플랫폼 개발
-    - Node, Express, MySQL
-    - 안드로이드에서 사용할 모든 서비스 API 개발
-2. 실시간 암호화폐 뉴스 서비스 개발
-    - SpringBoot, JPA, MariaDB, FreeMarker
-    - JWT 을 포함한 소셜 로그인 기능 개발
-3. 사내 PC 관제를 위한 서비스 개발
-    - Node, React
-    - 제공해주는 API 를 통해 얻은 데이터 정제 및 화면 개발
-4. 위치데이터 관제 서비스 개발
-    - SpringBoot, MyBatis, MariaDB, Apache
-    - 알고리즘 모듈에서 호출할 API 개발
-    - 관제 서비스 지도 위 데이터 표기를 위한 API 개발
+
+##### 위치데이터 기반 위험 감지 관제 웹 서비스
+
+- ***SpringBoot, MyBatis, MariaDB, Apache***
+- 알고리즘 모듈에서 호출할 API 개발
+    - 내부 서버 Apache - SpringBoot 내부 톰캣 mod_jk 모듈 사용 연동
+- 관제 서비스 지도 위 데이터 표기를 위한 Restful API 개발
+
+##### 사내 PC 관제 웹 서비스
+
+- ***Node, React***
+- 고객사 제공 내부 PC 제어 API 사용 데이터 정제 및 화면 개발
+
+##### 실시간 암호화폐 뉴스 서비스
+
+- ***SpringBoot, JPA, MariaDB, FreeMarker, JWT***
+- https://joind.io/
+- 로그인 기능 개발
+    - 서비스 내 회원 로그인 기능 개발 - 아이디 패스워드 인증
+    - 소셜 로그인 기능 개발 - 구글, 네이버, 카카오, 페이스북 API
+    - 인증 후 세션 관리를 위해 라이브러리로 생성한 jwt 전달 및 사용
+
+##### 여행, 사진 SNS 앱 서비스
+
+- ***Node, Express, MySQL, JWT***
+- 앱 구현을 위한 Restful API 개발
 
 ### 학습
+
 - [토비의 스프링](https://github.com/Lokie89/toby-spring)
     - 스프링 프레임워크가 만들어진 환경
     - 스프링 프레임워크 활용 방법
