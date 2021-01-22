@@ -46,7 +46,7 @@
 ##### 실시간 암호화폐 뉴스 서비스
 
 - ***SpringBoot, JPA, MariaDB, FreeMarker, JWT***
-- https://joind.io/
+- [링크](https://joind.io/)
 - 로그인 기능 개발
     - 서비스 내 회원 로그인 기능 개발 - 아이디 패스워드 인증
     - 소셜 로그인 기능 개발 - 구글, 네이버, 카카오, 페이스북 API
