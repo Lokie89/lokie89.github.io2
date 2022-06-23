@@ -1,11 +1,11 @@
-### 프로필
+## 프로필
 
 - 이름 : 오성록
 - [이메일](mailto:traeuman@gmail.com) : traeuman@gmail.com
 - [블로그](https://lokie.tistory.com)
 - [깃허브](https://github.com/Lokie89)
 
-### 소개
+## 소개
 
     소규모 쇼핑몰에서 물류 작업 및 관리 업무에 종사하던 중
     재고 관리의 어려움을 깨닫고 엑셀로 재고관리 프로그램을 만든 후,
@@ -23,27 +23,35 @@
     협업하는 과정에서 일어나는 형상관리, 개발방법에도 관심을 갖고
     책과 커뮤니티 스터디을 통한 학습을 진행하고 있습니다.
 
-### 보유 기술
+## 보유 기술
 
     Java, Spring, SpringBoot, JSP, FreeMarker, MyBatis, MySQL, MariaDB
 
-### 경력 사항
+## 경력 사항
 
-#### 아메바 ( 2018.11 - 2021.01 )
+### 차란차 ( 2021.08 -  )
 
-##### 위치데이터 기반 위험 감지 관제 웹 서비스
+#### 상세 페이지 개편
+- ***SpringBoot, Rest API, MyBatis, MySQL***
+- 도메인 설계 및 MSA 구축을 위한 코드 설계 수정
+  - 서버 분리 및 JPA 도입을 위한 코드 작성
+  - 서버간 호출을 위한 FeignClient 도입
+
+### 아메바 ( 2018.11 - 2021.01 )
+
+#### 위치데이터 기반 위험 감지 관제 웹 서비스
 
 - ***SpringBoot, MyBatis, MariaDB, Apache***
 - 알고리즘 모듈에서 호출할 API 개발
     - 내부 서버 Apache - SpringBoot 내부 톰캣 mod_jk 모듈 사용 연동
 - 관제 서비스 지도 위 데이터 표기를 위한 Restful API 개발
 
-##### 사내 PC 관제 웹 서비스
+#### 사내 PC 관제 웹 서비스
 
 - ***Node, React***
 - 고객사 제공 내부 PC 제어 API 사용 데이터 정제 및 화면 개발
 
-##### 실시간 암호화폐 뉴스 서비스
+#### 실시간 암호화폐 뉴스 서비스
 
 - ***SpringBoot, JPA, MariaDB, FreeMarker, JWT***
 - [링크](https://joind.io/)
@@ -52,12 +60,12 @@
     - 소셜 로그인 기능 개발 - 구글, 네이버, 카카오, 페이스북 API
     - 인증 후 세션 관리를 위해 라이브러리로 생성한 jwt 전달 및 사용
 
-##### 여행, 사진 SNS 앱 서비스
+#### 여행, 사진 SNS 앱 서비스
 
 - ***Node, Express, MySQL, JWT***
 - 앱 구현을 위한 Restful API 개발
 
-### 학습
+## 학습
 
 - [토비의 스프링](https://github.com/Lokie89/toby-spring)
     - 스프링 프레임워크가 만들어진 환경
